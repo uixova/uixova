@@ -29,12 +29,11 @@ I focus on crafting visually stunning, user-friendly, and responsive web interfa
 
 ### 💻 Workflow & Expertise
 
-<p align="left">
-  <img src="https://img.shields.io/badge/User%20Experience-90%25-00C4CC?style=flat-square" />
-  <img src="https://img.shields.io/badge/Frontend%20Dev-85%25-1572B6?style=flat-square" />
-  <img src="https://img.shields.io/badge/UI%20Design-95%25-F24E1E?style=flat-square" />
-  <img src="https://img.shields.io/badge/Python%20Automation-60%25-3670A0?style=flat-square" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uixova/uixova/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uixova/uixova/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/uixova/uixova/output/github-contribution-grid-snake.svg">
+</picture>
 
 > **Focusing on:** High-performance web components and seamless user journeys. My code isn't just functional; it's designed to be felt.
 
