@@ -35,9 +35,8 @@ I focus on crafting visually stunning, user-friendly, and responsive web interfa
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/uixova/uixova/output/github-contribution-grid-snake.svg">
 </picture>
 
-> **Focusing on:** High-performance web components and seamless user journeys. My code isn't just functional; it's designed to be felt.
+<br/> > **Focusing on:** High-performance web components and seamless user journeys. My code isn't just functional; it's designed to be felt.
 
----
 ---
 
 ### 🌱 Currently Working On
