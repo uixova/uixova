@@ -1,4 +1,4 @@
-# Hi there, I'm uixova! 👋
+# .UIXOVA
 
 ### 🚀 Aspiring Web Designer & Frontend Developer
 I focus on crafting visually stunning, user-friendly, and responsive web interfaces. I bridge the gap between design and functionality using modern web technologies.
