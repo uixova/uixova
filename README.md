@@ -1,54 +1,46 @@
-# .UIXOVA
+# ⚡ .UIXOVA
 
-### 🚀 Aspiring Web Designer & Frontend Developer
-I focus on crafting visually stunning, user-friendly, and responsive web interfaces. I bridge the gap between design and functionality using modern web technologies.
+### 🚀 Frontend Developer & UI/UX Enthusiast
+*Crafting pixel-perfect interfaces and seamless digital experiences.*
 
 ---
 
-### 🎨 Design & Frontend
-<p align="left">
+### 🛠️ Tech Stack & Tools
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,canva" />
-  </a>
-</p>
-
-### ⚙️ Backend & Data
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,python,mongodb,mysql" />
-  </a>
-</p>
-
-### 🚀 Deployment & DevOps
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,render,netlify,vercel,postman" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mongodb,mysql,figma,docker,git,github,render,vercel,postman&perline=8" />
   </a>
 </p>
 
 ---
 
-### 💻 Workflow & Expertise
+### 📊 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=uixova&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="UIXOVA's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uixova&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+</p>
 
+---
+
+### 🐍 Contribution Activity
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uixova/uixova/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uixova/uixova/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/uixova/uixova/output/github-contribution-grid-snake.svg">
 </picture>
 
-<br/> > **Focusing on:** High-performance web components and seamless user journeys. My code isn't just functional; it's designed to be felt.
-
 ---
 
-### 🌱 Currently Working On
-- 🔭 Improving my skills in **Advanced JavaScript** and **UI/UX Principles**.
-- ⚡ Developing interactive web components for my personal portfolio.
-- 🐍 Working on private Python automation scripts and data management with **MySQL**.
+### 🌱 Current Focus
+- 🔭 **Project:** Finalizing an automated AI-driven expense management app.
+- ⚡ **Learning:** Transitioning to **TypeScript** for robust codebases.
+- 🎨 **Design:** Professional, matte, and modern UI/UX aesthetics.
 
 ### 🤝 Let's Connect
-- 💼 LinkedIn: Not Available
-- 📧 Email: kair3nx@gmail.com
-- 🌐 Portfolio: [Click to Portfolio](https://uixova.netlify.app)
+<p align="left">
+<a href="mailto:kair3nx@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://uixova.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
 
 ---
 <p align="center">
