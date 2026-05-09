@@ -1,14 +1,14 @@
 # ⚡ .UIXOVA
 
 ### 🚀 Frontend Developer & UI/UX Enthusiast
-I focus on crafting visually stunning, user-friendly, and responsive web interfaces. Bridge the gap between design and functionality.
+I focus on crafting visually stunning, user-friendly, and responsive web interfaces. Bridging the gap between design and functionality with modern tech.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mongodb,mysql,figma,docker,git,github,render,vercel,postman&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mongodb,mysql,figma,docker,git,github,render,vercel,postman&perline=9" />
   </a>
 </p>
 
@@ -29,8 +29,11 @@ I focus on crafting visually stunning, user-friendly, and responsive web interfa
 - 🎨 Focusing on **matte and modern** UI/UX aesthetics.
 
 ### 🤝 Let's Connect
-- 📧 **Email:** kair3nx@gmail.com
-- 🌐 **Portfolio:** [uixova.netlify.app](https://uixova.netlify.app)
+<p align="left">
+<a href="https://www.linkedin.com/in/salih-%C3%B6ks%C3%BCz-418411400"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:kair3nx@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://uixova.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
 
 ---
 <p align="center">
