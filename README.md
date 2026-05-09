@@ -8,7 +8,7 @@ I focus on crafting visually stunning, user-friendly, and responsive web interfa
 ### 🛠️ Tech Stack & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mongodb,mysql,figma,docker,git,github,render,vercel,postman&perline=9" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mongodb,mysql,figma,docker,git,github,vercel,postman&perline=14" />
   </a>
 </p>
 
@@ -30,9 +30,15 @@ I focus on crafting visually stunning, user-friendly, and responsive web interfa
 
 ### 🤝 Let's Connect
 <p align="left">
-<a href="https://www.linkedin.com/in/salih-%C3%B6ks%C3%BCz-418411400"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:kair3nx@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://uixova.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/salih-öksüz-418411400">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="mailto:kair3nx@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+  <a href="https://uixova.netlify.app">
+    <img src="https://skillicons.dev/icons?i=vercel" height="40" />
+  </a>
 </p>
 
 ---
