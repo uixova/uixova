@@ -1,23 +1,15 @@
 # ⚡ .UIXOVA
 
 ### 🚀 Frontend Developer & UI/UX Enthusiast
-*Crafting pixel-perfect interfaces and seamless digital experiences.*
+I focus on crafting visually stunning, user-friendly, and responsive web interfaces. Bridge the gap between design and functionality.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mongodb,mysql,figma,docker,git,github,render,vercel,postman&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mongodb,mysql,figma,docker,git,github,render,vercel,postman&perline=10" />
   </a>
-</p>
-
----
-
-### 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uixova&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="UIXOVA's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uixova&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
 </p>
 
 ---
@@ -31,16 +23,14 @@
 
 ---
 
-### 🌱 Current Focus
-- 🔭 **Project:** Finalizing an automated AI-driven expense management app.
-- ⚡ **Learning:** Transitioning to **TypeScript** for robust codebases.
-- 🎨 **Design:** Professional, matte, and modern UI/UX aesthetics.
+### 🌱 Currently Working On
+- 🔭 Finalizing an **AI-driven expense management** application.
+- ⚡ Transitioning projects to **TypeScript** for better scalability.
+- 🎨 Focusing on **matte and modern** UI/UX aesthetics.
 
 ### 🤝 Let's Connect
-<p align="left">
-<a href="mailto:kair3nx@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://uixova.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
+- 📧 **Email:** kair3nx@gmail.com
+- 🌐 **Portfolio:** [uixova.netlify.app](https://uixova.netlify.app)
 
 ---
 <p align="center">
