@@ -36,9 +36,6 @@ I focus on crafting visually stunning, user-friendly, and responsive web interfa
   <a href="mailto:kair3nx@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
-  <a href="https://uixova.netlify.app">
-    <img src="https://skillicons.dev/icons?i=vercel" height="40" />
-  </a>
 </p>
 
 ---
