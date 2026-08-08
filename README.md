@@ -4,8 +4,8 @@
 
 **I build systems from scratch — and keep the dependency count near zero.**
 
-Language models trained from raw matrices, a programming language, on-device OCR,
-full-stack platforms. Local-first, mostly Turkish-first, low-level by choice.
+From language models and a programming language to full-stack platforms and security
+tooling — low level to product, local-first, mostly Turkish-first.
 
 ![from scratch](https://img.shields.io/badge/approach-from_scratch-6f42c1)
 ![local first](https://img.shields.io/badge/runtime-local_first-30a46c)
@@ -21,8 +21,8 @@ full-stack platforms. Local-first, mostly Turkish-first, low-level by choice.
 |---|---|---|
 | **[calisra](https://github.com/uixova/calisra)** | ~502M Turkish LLM trained from scratch — full pipeline: data → BPE → pretrain → SFT → tool-use | PyTorch |
 | **[claris](https://github.com/uixova/claris)** | Sibling model in **1.58-bit ternary BitNet** — ~66 MB, runs on CPU | PyTorch |
-| **[visora-ocr](https://github.com/uixova/visora-ocr)** | 8.1M-param on-screen OCR (subtitles, UI, game text) — encoder-decoder + CTC | PyTorch |
 | **[lovax](https://github.com/uixova/lovax)** | A programming language built from scratch — Python-simple, game-first scripting | C++17 |
+| **[visora-ocr](https://github.com/uixova/visora-ocr)** | 8.1M-param on-screen OCR (subtitles, UI, game text) — encoder-decoder + CTC | PyTorch |
 | **[api-pentest-simulator](https://github.com/uixova/api-pentest-simulator)** | Modular authorized security-testing toolkit — menu-driven, TR/EN | Python |
 | **[FlowTera](https://github.com/uixova/FlowTera-Backend)** | Enterprise expense & travel platform — microservices, RBAC, real-time | Node · Python · React |
 
