@@ -1,44 +1,52 @@
-# ⚡ .UIXOVA
+<div align="center">
 
-### 🚀 Frontend Developer & UI/UX Enthusiast
-I focus on crafting visually stunning, user-friendly, and responsive web interfaces. Bridging the gap between design and functionality with modern tech.
+# Salih Öksüz · `@uixova`
 
----
+**I build systems from scratch — and keep the dependency count near zero.**
 
-### 🛠️ Tech Stack & Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mongodb,mysql,figma,docker,git,github,vercel,postman&perline=14" />
-  </a>
-</p>
+Language models trained from raw matrices, a programming language, on-device OCR and
+translation, full-stack platforms. Local-first, mostly Turkish-first, low-level by choice.
 
----
+![from scratch](https://img.shields.io/badge/approach-from_scratch-6f42c1)
+![local first](https://img.shields.io/badge/runtime-local_first-30a46c)
+![zero deps](https://img.shields.io/badge/deps-near_zero-2f81f7)
 
-### 🐍 Contribution Activity
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uixova/uixova/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uixova/uixova/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/uixova/uixova/output/github-contribution-grid-snake.svg">
-</picture>
+</div>
 
 ---
 
-### 🌱 Currently Working On
-- 🔭 Finalizing an **AI-driven expense management** application.
-- ⚡ Transitioning projects to **TypeScript** for better scalability.
-- 🎨 Focusing on **matte and modern** UI/UX aesthetics.
+### Selected work
 
-### 🤝 Let's Connect
-<p align="left">
-  <a href="https://www.linkedin.com/in/salih-öksüz-418411400">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-  <a href="mailto:kair3nx@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
-  </a>
-</p>
+| Project | What it is | Stack |
+|---|---|---|
+| **[calisra](https://github.com/uixova/calisra)** | ~502M Turkish LLM trained from scratch — full pipeline: data → BPE → pretrain → SFT → tool-use | PyTorch |
+| **[claris](https://github.com/uixova/claris)** | Sibling model in **1.58-bit ternary BitNet** — ~66 MB, runs on CPU | PyTorch |
+| **[visora-ocr](https://github.com/uixova/visora-ocr)** | 8.1M-param on-screen OCR (subtitles, UI, game text) — encoder-decoder + CTC | PyTorch |
+| **[lovax](https://github.com/uixova/lovax)** | A programming language built from scratch — Python-simple, game-first scripting | C++17 |
+| **[api-pentest-simulator](https://github.com/uixova/api-pentest-simulator)** | Modular authorized security-testing toolkit — menu-driven, TR/EN | Python |
+| **[FlowTera](https://github.com/uixova/FlowTera-Backend)** | Enterprise expense & travel platform — microservices, RBAC, real-time | Node · Python · React |
+
+<sub>Some work stays private until it's ready — a TR↔EN translation model and an image→music AI pipeline are in that queue.</sub>
 
 ---
-<p align="center">
-  <i>"Design is not just what it looks like and feels like. Design is how it works."</i>
-</p>
+
+### How I work
+
+- **From scratch.** Own tokenizer, own training loop, own data pipeline — I'd rather understand the whole stack than glue libraries together.
+- **Own the data.** A ~178 GB cleaned Turkish corpus (~33B tokens) with a 32k BPE, built over 90+ fetch/clean cycles — the unglamorous half most people skip.
+- **Local-first.** Models that run on a laptop or a CPU, not only in a datacenter.
+
+---
+
+### Building toward
+
+Bigger systems, lower levels. A 2 / 2.5D game and graphics engine, a from-scratch kernel,
+an OS that boots and runs live from a flash drive — and more that isn't public yet.
+The visible repos are the surface. The direction stays the same: **build the machine,
+not just the app.**
+
+---
+
+<div align="center">
+<sub>📫 <a href="mailto:kair3nx@gmail.com">kair3nx@gmail.com</a> · 💼 <a href="https://www.linkedin.com/in/salih-öksüz-418411400">LinkedIn</a></sub>
+</div>
