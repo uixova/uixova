@@ -4,8 +4,8 @@
 
 **I build systems from scratch — and keep the dependency count near zero.**
 
-Language models trained from raw matrices, a programming language, on-device OCR and
-translation, full-stack platforms. Local-first, mostly Turkish-first, low-level by choice.
+Language models trained from raw matrices, a programming language, on-device OCR,
+full-stack platforms. Local-first, mostly Turkish-first, low-level by choice.
 
 ![from scratch](https://img.shields.io/badge/approach-from_scratch-6f42c1)
 ![local first](https://img.shields.io/badge/runtime-local_first-30a46c)
@@ -26,24 +26,23 @@ translation, full-stack platforms. Local-first, mostly Turkish-first, low-level 
 | **[api-pentest-simulator](https://github.com/uixova/api-pentest-simulator)** | Modular authorized security-testing toolkit — menu-driven, TR/EN | Python |
 | **[FlowTera](https://github.com/uixova/FlowTera-Backend)** | Enterprise expense & travel platform — microservices, RBAC, real-time | Node · Python · React |
 
-<sub>Some work stays private until it's ready — a TR↔EN translation model and an image→music AI pipeline are in that queue.</sub>
+<sub>Some work stays private until it runs.</sub>
 
 ---
 
 ### How I work
 
-- **From scratch.** Own tokenizer, own training loop, own data pipeline — I'd rather understand the whole stack than glue libraries together.
-- **Own the data.** A ~178 GB cleaned Turkish corpus (~33B tokens) with a 32k BPE, built over 90+ fetch/clean cycles — the unglamorous half most people skip.
+- **From scratch.** Own tokenizer, own training loop, own data — I'd rather understand the whole stack than glue libraries together.
 - **Local-first.** Models that run on a laptop or a CPU, not only in a datacenter.
+- **Depth over breadth.** One language done well beats ten half-supported; one layer understood beats ten abstracted away.
 
 ---
 
-### Building toward
+### Direction
 
-Bigger systems, lower levels. A 2 / 2.5D game and graphics engine, a from-scratch kernel,
-an OS that boots and runs live from a flash drive — and more that isn't public yet.
-The visible repos are the surface. The direction stays the same: **build the machine,
-not just the app.**
+The repos are a snapshot, not the scope. Each thing I build tends to sit a little lower
+in the stack than the last — that's the only roadmap I keep. What's next usually isn't
+public until it works.
 
 ---
 
